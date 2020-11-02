@@ -1,7 +1,7 @@
 {
   "name": "memory-game-css-exercise",
   "version": "1.0.0",
-  "description": "CSS exercises using a javascript/html/css based memory game",
+  "description": "CSS and javascript exercises using a javascript/html/css based memory game",
   "main": "index.js",
   "repository": "https://github.com/Marcio-Tiene/memory-game-css-exercise",
   "author": "Marcio Tiene",
